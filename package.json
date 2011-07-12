@@ -11,14 +11,14 @@
 	},
 	"maintainers": [
 		{
-			"name": "Carl Woodward",
+		"name": "Carl Woodward",
   		"email": "carl@carlwoodward.com",
   		"web": "http://carlwoodward.com"
 		}
 	],
 	"contributors": [
 		{
-			"name": "Carl Woodward",
+		"name": "Carl Woodward",
   		"email": "carl@carlwoodward.com",
   		"web": "http://carlwoodward.com"
 		},
@@ -45,5 +45,8 @@
   "directories": {
     "lib": "lib"
   },
+	"scripts": {
+		"install": "cake build"
+	},
   "repository": "https://github.com/cjwoodward/rel"
 }
